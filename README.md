@@ -33,6 +33,10 @@ The query from step 6 is executed on the parquet temporary table, and the runtim
 The home_sales temporary table is uncached and verified.
 
 
+
+
+
+
 Files of repository
 Home_Sales_colab.ipynb: the file contains all analysis, using Google colab.
 
