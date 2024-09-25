@@ -22,8 +22,6 @@ A query is formulated to return the average price per view rating, where the ave
 
 A cache of the temporary home_sales table is created and confirmed.
 
-The query from step 6 is executed on the cached temporary table, and the runtime is recorded.
-
 The home sales dataset is partitioned by the date_built field, and the formatted parquet data is read.
 
 A temporary table is created from the parquet data.
